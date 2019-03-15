@@ -14,3 +14,6 @@
 [(SI) Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
 
 [(GEM) Gradient Episodic Memory for Continual Learning, NIPS17](https://arxiv.org/pdf/1706.08840.pdf)
+
+## Dual Memory Networks
+[FearNet: Brain-Inspired Model for Incremental Learning, ICLR18](https://openreview.net/forum?id=SJ1Xmf-Rb)
