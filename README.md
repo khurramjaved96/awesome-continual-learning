@@ -12,3 +12,5 @@
 [(MAS) Memory Aware Synapses: Learning what (not) to forget, ECCV18](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.pdf)
 
 [(SI) Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
+
+[(GEM) Gradient Episodic Memory for Continual Learning, NIPS17](https://arxiv.org/pdf/1706.08840.pdf)
