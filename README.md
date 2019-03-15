@@ -17,3 +17,8 @@
 
 ## Dual Memory Networks
 [FearNet: Brain-Inspired Model for Incremental Learning, ICLR18](https://openreview.net/forum?id=SJ1Xmf-Rb)
+
+## Selective Networks 
+[Alleviating catastrophic forgetting using contextdependent gating and synaptic stabilization, PNAS](https://www.pnas.org/content/pnas/115/44/E10467.full.pdf)
+
+[PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734)
