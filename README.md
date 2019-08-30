@@ -24,6 +24,9 @@
 
 [(GEM) Gradient Episodic Memory for Continual Learning, NIPS17](https://arxiv.org/pdf/1706.08840.pdf)
 
+[(ER-Reservoir) On Tiny Episodic Memories in Continual Learning](https://arxiv.org/abs/1902.10486)
+
+
 ## Dual Memory Networks
 [FearNet: Brain-Inspired Model for Incremental Learning, ICLR18](https://openreview.net/forum?id=SJ1Xmf-Rb)
 
