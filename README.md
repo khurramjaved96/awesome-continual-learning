@@ -2,6 +2,7 @@
 
 ## Classic Literature 
 [Catastrophic Forgetting in Connectionist Networks (French, 1999)](https://www.researchgate.net/publication/228051810_Catastrophic_Forgetting_in_Connectionist_Networks)
+
 [Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory](https://www.ncbi.nlm.nih.gov/pubmed/7624455)
 
 ## Rehearsal Based Incremental Learning 
