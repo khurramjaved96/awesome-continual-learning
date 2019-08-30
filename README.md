@@ -1,12 +1,13 @@
 # Awesome-continual-learning
 
 ## Classic Literature 
-[Catastrophic Forgetting in Connectionist Networks (French, 1999)](https://www.researchgate.net/publication/228051810_Catastrophic_Forgetting_in_Connectionist_Networks).
-
-
+[Catastrophic Forgetting in Connectionist Networks (French, 1999)](https://www.researchgate.net/publication/228051810_Catastrophic_Forgetting_in_Connectionist_Networks)
+[Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory](https://www.ncbi.nlm.nih.gov/pubmed/7624455)
 
 ## Rehearsal Based Incremental Learning 
-[iCaRL: Incremental Classifier and Representation Learning, CVPR2017](https://arxiv.org/abs/1611.07725).
+[iCaRL: Incremental Classifier and Representation Learning, CVPR2017](https://arxiv.org/abs/1611.07725)
+
+[MER : Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/abs/1810.11910)
 
 ## Knowledge Distillation
 [Distilling the Knowledge in a Neural Network, 2015](https://arxiv.org/abs/1503.02531)
