@@ -10,6 +10,10 @@
 
 [MER : Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference, ICLR19](https://arxiv.org/abs/1810.11910)
 
+[(GEM) Gradient Episodic Memory for Continual Learning, NIPS17](https://arxiv.org/pdf/1706.08840.pdf)
+
+[(ER-Reservoir) On Tiny Episodic Memories in Continual Learning](https://arxiv.org/abs/1902.10486)
+
 ## Knowledge Distillation
 [Distilling the Knowledge in a Neural Network, 2015](https://arxiv.org/abs/1503.02531)
 
@@ -21,10 +25,6 @@
 [(MAS) Memory Aware Synapses: Learning what (not) to forget, ECCV18](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Rahaf_Aljundi_Memory_Aware_Synapses_ECCV_2018_paper.pdf)
 
 [(SI) Continual Learning Through Synaptic Intelligence](https://arxiv.org/pdf/1703.04200.pdf)
-
-[(GEM) Gradient Episodic Memory for Continual Learning, NIPS17](https://arxiv.org/pdf/1706.08840.pdf)
-
-[(ER-Reservoir) On Tiny Episodic Memories in Continual Learning](https://arxiv.org/abs/1902.10486)
 
 
 ## Dual Memory Networks
