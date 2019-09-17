@@ -8,7 +8,7 @@
 ## Rehearsal Based Incremental Learning 
 [iCaRL: Incremental Classifier and Representation Learning, CVPR2017](https://arxiv.org/abs/1611.07725)
 
-[MER : Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference](https://arxiv.org/abs/1810.11910)
+[MER : Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference, ICLR19](https://arxiv.org/abs/1810.11910)
 
 ## Knowledge Distillation
 [Distilling the Knowledge in a Neural Network, 2015](https://arxiv.org/abs/1503.02531)
