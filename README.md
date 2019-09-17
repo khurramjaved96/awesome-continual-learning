@@ -34,3 +34,7 @@
 [(XdG) Alleviating catastrophic forgetting using contextdependent gating and synaptic stabilization, PNAS](https://www.pnas.org/content/pnas/115/44/E10467.full.pdf)
 
 [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734)
+
+## Meta Learning Based Methods
+[(MRCL) Meta-Learning Representations for Continual Learning, NeurIPS19](https://sites.ualberta.ca/~kjaved/mrcl.html)
+
