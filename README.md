@@ -14,6 +14,12 @@
 
 [(ER-Reservoir) On Tiny Episodic Memories in Continual Learning](https://arxiv.org/abs/1902.10486)
 
+## Meta Learning Based Methods
+[(OML) Meta-Learning Representations for Continual Learning, NeurIPS19](https://sites.ualberta.ca/~kjaved/mrcl.html)
+
+[(ANML) Learning to Continually Learn, ECAI 2020](https://arxiv.org/abs/2002.09571)
+
+
 ## Knowledge Distillation
 [Distilling the Knowledge in a Neural Network, 2015](https://arxiv.org/abs/1503.02531)
 
@@ -35,8 +41,4 @@
 
 [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734)
 
-## Meta Learning Based Methods
-[(OML) Meta-Learning Representations for Continual Learning, NeurIPS19](https://sites.ualberta.ca/~kjaved/mrcl.html)
-
-[(ANML) Learning to Continually Learn, ECAI 2020](https://arxiv.org/abs/2002.09571)
 
